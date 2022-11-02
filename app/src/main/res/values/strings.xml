@@ -1,0 +1,523 @@
+<resources>
+    <string name="app_name">JetpackComposeCodeLayoutsandNav</string>
+
+    <string name="american_recipe_one">
+        CORNDOG \n
+        \n
+Prep:20 mins \n
+Cook:15 mins \n
+\n
+INGREDIENTS \n
+        \n
+100ml cornmeal \n
+100g plain flour \n
+1 egg, lightly beaten \n
+1 tsp caster sugar \n
+1/2 tsp fine sea salt \n
+1 tbsp baking powder \n
+150ml whole milk \n
+8 frankfurters \n
+vegetable oil, for deep-frying \n
+ketchup and American mustard, to serve \n
+\n
+DIRECTIONS \n
+\n
+STEP 1 \n
+Tip the cornmeal, flour, egg, caster sugar, salt, baking powder and milk into a bowl, and whisk until you have a smooth, lump-free batter. \n
+Carefully pour the batter into a tall jug or glass. \n
+        \n
+STEP 2 \n
+Push a wooden skewer through the length of each frankfurter, so it goes about three-quarters of the way through. \n
+Fill a pan no more than a third full with oil and heat to 180C, or until a cube of bread dropped in browns within 30 seconds. \n
+\n
+        STEP 3 \n
+Working with one frankfurter at a time, submerge it into the batter and gently turn to coat – it should be completely covered. \n
+Carefully drop into the oil and fry for 2-3 mins, or until the batter is crisp and golden./n
+        Drain on a sheet of kitchen paper. Repeat with the remaining frankfurters. Serve with ketchup and American mustard for dipping or drizzling over</string>
+
+    <string name="american_recipe_two">
+        Truffled mac n cheese \n
+\n
+Prep:30 mins \n
+Cook:40 mins \n
+\n
+INGREDIENTS \n
+        \n
+500g macaroni \n
+1l whole milk \n
+2 bay leaves \n
+60g butter \n
+60g plain flour \n
+2 tbsp Dijon mustard \n
+2 tbsp roughly chopped thyme leaves \n
+80g porcini white truffle paste or 2 tbsp truffle oil \n
+1 tbsp porcini powder (or dried porcini mushrooms blitzed to a powder in a food processor) \n
+80g taleggio cheese , chopped \n
+125g ball of mozzarella , chopped \n
+100g mature cheddar , grated \n
+30g fresh breadcrumbs \n
+30g parmesan , finely grated \n
+\n
+        \n
+DIRECTIONS \n
+        \n
+STEP 1 \n
+Cook the macaroni following pack instructions until al dente. Drain, rinse with cold water and set aside to cool. \n
+\n
+        STEP 2 \n
+Tip the milk and bay leaves into a pan and bring to a simmer. Remove from the heat. Melt the butter in a large non-stick saucepan,\n
+then stir in the flour to make a thick paste, continuing to stir for 3-4 mins. Remove and discard the bay leaves from the milk,\n
+then gradually pour it into the flour and butter mix, continuously stirring to keep the sauce smooth. Add the mustard, thyme,\n
+truffle paste and porcini powder, then stir in the taleggio cheese and mozzarella until melted slightly. Remove from the heat,\n
+tip in the macaroni and stir to coat. Scrape into an ovenproof dish. Will keep chilled for up to 24 hrs. \n
+\n
+        STEP 3 \n
+Heat the oven to 200C/180C fan/gas 6. Sprinkle over the cheddar, breadcrumbs and parmesan, and bake for 20 mins until golden. \n
+For a crispy top, grill for 5 mins or until just golden. Serve straightaway</string>
+
+    <string name="american_recipe_three">
+        AMERICAN PANCAKES \n
+\n
+Prep:25 mins \n
+Cook:30 mins \n
+\n
+INGREDIENTS \n
+\n
+200g self-raising flour \n
+1 1/2 tsp baking powder \n
+1 tbsp golden caster sugar \n
+3 large eggs \n
+25g melted butter, plus extra for cooking \n
+200ml milk \n
+vegetable oil, for cooking \n
+\n
+DIRECTIONS \n
+\n
+STEP 1 \n
+Mix 200g self-raising flour, 1 1/2 tsp baking powder, 1 tbsp golden caster sugar and a pinch of salt together in a large bowl. \n
+\n
+        STEP 2 \n
+Create a well in the centre with the back of your spoon then add 3 large eggs, \n
+25g melted butter and 200ml milk. \n
+\n
+        STEP 3 \n
+Whisk together either with a balloon whisk or electric hand beaters until smooth then pour into a jug.\n
+ \n
+        STEP 4 \n
+Heat a small knob of butter and 1 tsp of oil in a large, non-stick frying pan over a medium heat. \n
+When the butter looks frothy, pour in rounds of the batter, approximately 8cm wide. \n
+Make sure you don’t put the pancakes too close together as they will spread during cooking.\n
+Cook the pancakes on one side for about 1-2 mins or until lots of tiny bubbles start to appear and pop on the surface. \n
+Flip the pancakes over and cook for a further minute on the other side. Repeat until all the batter is used up. \n
+ \n
+        STEP 5 \n
+Serve your pancakes stacked up on a plate with a drizzle of maple syrup and any of your favourite toppings.</string>
+
+    <string name="italian_recipe_one">
+        CHICKEN CACCIATORE \n
+\n
+ Prep Time: 10 minutes \n
+Cook Time: 1 hour 20 minutes \n
+Total Time: 1 hour 30 minutes \n
+\n
+INGREDIENTS \n
+        \n
+Chicken – We prefer whole thighs for this recipe. \n
+Crushed tomatoes, onion, mushrooms, bell peppers, carrot, and black olives. \n
+thyme, parsley, basil, oregano, red chili flakes, salt and pepper. \n
+garlic \n
+Red wine \n
+\n
+DIRECTIONS \n
+        \n
+
+Generously season chicken with salt and pepper. Heat oil in a large dutch oven over medium high heat, \n
+then sear the chicken on both sides to brown it up. Plate it out. \n
+In the same pot, add in onion, sauté 5 minutes. Then, add bell peppers, carrots, mushrooms, garlic and herbs. \n
+Cook for 7-8 minutes. Add wine, deglaze the pot, cook for 5 minutes. Mix in crushed tomatoes, tomato paste and red chili flakes. \n
+Cook for 5 minutes. Return the chicken to the pot, along with olives. Cover, reduce heat to medium low, and cook for 45 minutes to an hour. \n
+</string>
+    <string name="italian_recipe_two">
+        Ribollita (Tuscan White Bean Soup) \n
+\n
+ Prep Time: 5 minutes \n
+Cook Time: 45 minutes \n
+Total Time: 50 minutes \n
+\n
+INGREDIENTS \n
+\n
+ 3 Tbsp extra virgin oil (+ more for serving) \n
+1 large onion, chopped \n
+3 carrots, diced \n
+2 celery stalks, diced \n
+5-6 garlic cloves, finely chopped \n
+1/2 tsp red chili flakes \n
+28oz can diced or crushed tomatoes \n
+4 cups vegetable (or chicken) broth \n
+6-7 sprigs fresh thyme, chopped (or 1 tsp dried thyme) \n
+3-4 sprigs fresh oregano, chopped (or 1 tsp dried oregano) \n
+5-6 basil leaves, chopped (or 1 tsp dried basil) \n
+2 sprigs rosemary, chopped (or 1 tsp dried rosemary) \n
+3 15oz cans cannellini beans \n
+1 parmesan rind, about 4 inches \n
+1 small bunch kale, ribs and stems removed, chopped \n
+3 cups bread chunks \n
+Parmesan cheese, for garnishing \n
+Salt and pepper, to taste \n
+\n
+DIRECTIONS \n
+\n
+Heat extra virgin olive oil over medium-high heat in a soup pot and add the onions, celery and carrots. \n
+Sprinkle in salt and pepper and cook, stirring regularly, until softened. Add the garlic, red chili flakes and cook for a minute, stirring regularly. \n
+Add in tomatoes and vegetable (or chicken) broth, along with herbs (thyme, basil, oregano and rosemary). \n
+Add in 2 cans of cannellini beans (you will mash up 1 can of beans later add it to thicken the soup), along with parmesan rind and simmer for 25-30 minutes. \n
+Stir in kale along with 1 can of mashed cannellini beans and let it simmer for 10 minutes. Taste and adjust the seasoning like salt. \n
+Remove parmesan rind if it has not dissolved completely, along with any big sprigs of fresh herbs. \n
+Arrange chunks of bread in the bottom of a bowl and ladle the soup all over. Add on a generous dousing of extra virgin olive oil, along with some more bread chunks and freshly grated parmesan cheese. \n
+Let the bread absorb the soup for few minutes before eating. \n
+</string>
+    <string name="italian_recipe_three">
+        Tiramisu \n
+\n
+ Active Time: 30 minutes \n
+Chilling Time: 7 hours \n
+Total Time: 7 hours 30 minutes \n
+\n
+INGREDIENTS \n
+\n
+6 large egg yolks \n
+ 3/4 cup granulated sugar \n
+3/4 cup whole milk \n
+1 1/2 cups heavy whipping cream \n
+ 1 teaspoon pure vanilla extract \n
+16 ounces mascarpone cheese, room temperature \n
+3/4 cup strong brewed coffee, room temperature \n
+ 2 1/2 tablespoons Kahlua \n
+1 (7-ounce) package ladyfingers (see note) \n
+ 1 tablespoon cocoa powder \n
+Chocolate curls, optional \n
+\n
+DIRECTIONS \n
+\n
+In a medium saucepan, whisk together egg yolks and sugar until well blended. \n
+Whisk in milk and cook over medium heat, stirring constantly, until mixture boils. \n
+Boil gently for 1 minute, remove from heat and allow to cool slightly. \n
+Mixture will appear slightly curdled - this is totally okay. Cover with plastic wrap and chill in the refrigerator for 1 hour. \n
+Once the egg yolk mixture has chilled, prepare the whipped cream. \n
+In a medium bowl, beat cream with vanilla until stiff peaks form. Set aside. \n
+Whisk or beat together the chilled egg yolk mixture with the mascarpone until smooth. Set aside. \n
+In a medium bowl, combine coffee and Kahlua. Roll each ladyfinger in the coffee mixture once or twice. \n
+Take care not to oversaturate the ladyfingers. \n
+Arrange half of soaked ladyfingers in the bottom of a 7x11 inch dish. Spread half of mascarpone mixture over ladyfingers, then half of whipped cream over that. \n
+Repeat layers and lightly dust with cocoa. Cover and refrigerate for at least 6 hours, but preferably overnight</string>
+
+    <string name="chinese_recipe_one">
+        Chili Oil \n
+\n
+ Prep Time: 5 minutes \n
+Cook Time: 10 minutes \n
+Total Time: 15 minute \n
+\n
+INGREDIENTS \n
+        \n
+ 1.5 cups canola oil \n
+ 4 star anis \n
+1 cinnamon stick \n
+ 2 bay leaves \n
+ 3 Tbsp Sichuan peppercorns \n
+ 6-7 cardamom pods \n
+ 1/2 cup Gochugaro Korean chili powder \n
+ 3 Tbsp red chili flakes \n
+ 2 tsp salt \n
+
+DIRECTIONS\n
+        \n
+ Dry roast star anis, bay leaves, cinnamon stick, cardamoms, Sichuan peppercorns in a pan over medium high heat for a few minutes until they are fragrant. Make sure not to burn them. \n
+Heat the oil in a saucepan over medium heat until small bubbles start to appear and the oil is hot. Add in all your spice aromatics like star anis, cardamom, cinnamon stick, bay leaves and Sichuan peppercorns. \n
+Simmer it gently for 10 minutes. Keep an close eye on your oil, so as not to burn the aromatics. There should be slow bubbles coming from the aromatics all the time. \n
+In a sturdy, heat proof bowl or jar mix the Koran chili peppers and regular chili flakes, along with salt. Now pour the oil over the chili flakes through a strainer, so as to strain the aromatics out of oil. \n
+The oil will bubble when it hits the chili flakes. \n
+Let it settle a bit, then stir the chili flakes and oil together to distribute the heat of the oil evenly. Allow the chili oil to cool before storing. \n
+Add couple of star anis and cinnamon stick back to the oil container to retain the beautiful spice aroma to the oil. Store it at room temperature in an air tight container jar with a seal lid. Keep it in a cool, dry place in your pantry. \n
+</string>
+
+    <string name="chinese_recipe_two">
+        EGG DROP SOUP \n
+\n
+PREP TIME 5 minutes \n
+Cook Time 10 minutes \n
+Total Time 15 minutes \n
+\n
+INGREDIENTS \n
+        \n
+4 cups chicken broth divided \n
+1 tablespoon soy sauce \n
+3 green onions sliced \n
+1 cup mushrooms sliced \n
+1 tablespoon cornstarch \n
+3 eggs beaten \n
+\n
+DIRECTIONS \n
+        \n
+In a large pot add 3 1/2 cups of chicken broth, soy sauce, green onions, and mushrooms, and bring to a boil. \n
+In a small bowl add the cornstarch and ½ cup reserved chicken broth and whisk until combined. Pour into the soup. \n
+Reduce heat to a simmer.Slowly stir in the beaten eggs as you are stirring the soup.  The eggs will start spreading out like ribbons in the soup. Garnish with additional chopped green onions if desired. \n
+</string>
+    <string name="chinese_recipe_three">
+        Chinese Lion’s Head Pork Meatballs \n
+\n
+Prep Time: 20 minutes \n
+Cook Time: 1 hour 30 minutes \n
+Total Time: 1 hour 50 minutes \n
+\n
+INGREDIENTS \n
+        \n
+1 pound (500 grams) ground pork (lean fat ratio 7:3) \n
+4 tablespoons Shaoxing wine (or Japanese sake) \n
+3 tablespoons light soy sauce \n
+1 teaspoon dark soy sauce \n
+2 teaspoons salt \n
+1 tablespoon sugar \n
+1 teaspoon ginger , grated \n
+1/2 cup scallion , minced (or green onion) \n
+1 tablespoons cornstarch \n
+12 to 15 water chestnuts , finely chopped (generate about 1 cup) \n
+3 eggs \n
+1 cup (100 grams) panko (Japanese style breadcrumb) \n
+2 tablespoons sesame oil \n
+1 tablespoon peanut oil (or vegetable oil) \n
+\n
+DIRECTIONS \n
+        \n
+PREPARE THE MEATBALLS \n
+Add ground pork into a large bowl. Add 4 tablespoons water. Mix well with a spatula until water is fully incorporated. \n
+Add Shaoxing wine, light soy sauce, dark soy sauce, salt, sugar, grated ginger, cornstarch, and scallion. Mix well. \n
+Add chestnuts and eggs. Mix a few times. \n
+Add panko. Mix well. Add sesame oil, mix until it forms a soft paste. \n
+Heat peanut oil in a nonstick skillet over medium heat until warm. \n
+Use bare hands to scoop about 1/3 cup of the paste and shape it into a meatball (*see footnote 1). \n
+The meatball should be a bit runny, barely able to hold its shape (so the finished meatballs will be tender and juicy). \n
+If the meatballs cannot hold their shape, add a bit more panko and mix again. \n
+If the meatballs are still a bit tough, blend in more water and mix well, 1 tablespoon at a time, until the paste turns soft. \n
+COOK THE MEATBALLS \n
+Carefully place 3 to 4 meatballs in the skillet and make sure to leave enough space to flip them. When the bottom side is just set, carefully roll the ball with a spatula to cook the other sides. \n
+Continue to do this until all sides are set and browned (*see footnote 2). Transfer to a plate. Continue to brown the rest of the meatballs. \n
+Add water to a steamer and place the plate of meatballs on the steaming rack. (*see footnote 3) \n
+Heat the steamer over medium high heat, covered, until the water begins to boil. Turn to medium heat. Cook covered until the meatballs are cooked through, in 40 minutes. \n
+Cook the second batch by using the same method. After cooking the first batch, check the water level and add more if it runs too low. \n
+Serve warm over steamed rice as a main \n
+</string>
+
+    <string name="cajun_recipe_one">
+        AUTHENTIC NEW ORLEANS STYLE GUMBO \n
+\n
+PREP 20 MIN \n
+COOK 1 HOUR 20 MIN \n
+\n
+INGREDIENTS \n
+        \n
+
+For the Roux: \n
+
+1 heaping cup all-purpose flour \n
+2/3 cup oil (vegetable or canola oil) \n
+
+For the Gumbo: \n
+1 bunch celery , diced, leaves and all \n
+1 green bell pepper , diced \n
+1 large yellow onion , diced \n
+1 bunch green onion , finely chopped \n
+1 bunch fresh chopped parsley , finely chopped \n
+2-3 cloves garlic \n
+1-2 Tablespoons cajun seasoning \n
+6-8 cups Chicken broth \n
+12 ounce package andouille sausages , sliced into coins (substitute Polska Kielbasa if you can not find a good Andouille) \n
+Meat from 1 Rotisserie Chicken \n
+2 cups Shrimps , pre cooked \n
+ white rice for serving \n
+
+\n
+DIRECTIONS \n
+        \n
+
+ Make the Roux: \n
+In a large, heavy bottom stock pot combine flour and oil. Cook on medium-low heat, stirring constantly for 30-45 minutes. \n
+This part takes patience when it is finished it should be as dark as chocolate and have a soft, cookie dough like consistency. \n
+Be careful not to let it burn! Feel free to add a little more flour or oil as needed to reach this consistency. \n
+Brown the sausage. In a separate skillet on medium-high heat place the sausage slices in one layer in the pan. \n
+Brown them well on one side (2-3 minutes) and then use a fork to flip each over onto the other side to brown. Remove to a plate. \n
+CoOk the vegetables in broth. Add 1/2 cup of the chicken broth to the hot skillet that had the sausage to deglaze the pan. Pour the broth and drippings into your large soup pot. \n
+Add remaining 5 1/2 cups of chicken broth. Add veggies, parsley, and roux to the pot and stir well. \n
+Bring to a boil over medium heat and boil for 5-7 minutes, or until the vegetables are slightly tender. (Skim off any foam that may rise to the top of the pot.) \n
+Stir in cajun seasoning, to taste. \n
+Add meat. Add chicken, sausage, and shrimp. \n
+Pour over rice add your fixings and enjoy.</string>
+
+    <string name="cajun_recipe_two">
+        CABBAGE AND POTATOES\n
+\n
+INGREDIENTS \n
+\n
+5 tablespoons salted butter \n
+1 medium yellow or sweet onion, thinly sliced \n
+1 medium head green cabbage, cut into 1-inch pieces \n
+1 1/2 cups chicken broth \n
+2 medium Yukon Gold potatoes, peeled and cut into 1-inch chunks \n
+1 1/2 teaspoons salt \n
+1/2 teaspoon pepper \n
+I/4 teaspoon crushed red pepper flakes \n
+\n
+DIRECTIONS \n
+\n
+In a Dutch oven, melt butter over medium heat. Add onion and cook for 4 minutes, or until soft. \n
+Add cabbage, potatoes, broth, salt, pepper, and red pepper flakes. \n
+Cover, reduce heat to medium-low and simmer for 10 minutes, stirring occasionally. \n
+Remove lid and increase heat to medium-high. Cook until most of liquid has evaporated (about 12 to 14 minutes), stirring occasionally.</string>
+
+    <string name="cajun_recipe_three">
+PINEAPPLE AND COCONUT CAJUN CAKE \n
+\n
+ Prep: 15 mins \n
+Cook: 30 mins \n
+\n
+INGREDIENTS \n
+\n
+FOR CAKE \n
+\n
+2 large eggs \n
+1 large can (20 ounces) crushed pineapple (undrained) \n
+2 cups all-purpose flour \n
+1 1/2 cup granulated sugar \n
+1/2 teaspoon salt \n
+1 1/2 teaspoon baking soda \n
+\n
+FOR TOPPING \n
+\n
+1 stick butter (4 ounces) \n
+1 cup granulated sugar \n
+3/4 cup evaporated milk \n
+1 teaspoon vanilla \n
+1 cup flaked coconut \n
+1 cup chopped pecans \n
+\n
+DIRECTIONS \n
+\n
+Heat the oven to 350 F. \n
+Grease and flour a 9-by-13-by-2-inch baking pan. \n
+In a mixing bowl with an electric mixer, beat the eggs with the pineapple until well blended. \n
+In another bowl, combine the flour, sugar, salt, and baking soda. \n
+Whisk or stir the dry ingredients to blend thoroughly. \n
+Stir the dry ingredients into the first mixture; blend well. \n
+Spread the batter in the prepared pan and bake in the preheated oven for about 30 minutes, \n
+or until a wooden toothpick inserted in the center comes out clean. \n
+Make topping (below) while the cake is baking. \n
+FOR TOPPING \n
+In a saucepan over medium heat, combine the butter, granulated sugar, and evaporated milk; bring to a boil. \n
+Reduce the heat to low and boil gently for 10 minutes. \n
+Remove the saucepan from the heat and stir in the vanilla, coconut, and pecans. \n
+Spread the topping mixture over the hot cake.</string>
+
+    <string name="mexican_recipe_one">
+        MEXICAN CORN SALAD\n
+        \n
+        Prep Time: \n
+    10 mins \n
+Total Time: \n
+    25 mins \n
+\n
+INGREDIENTS \n
+\n
+6 ears corn \n
+Kosher salt \n
+1/2 c. mayonnaise \n
+1/4 c. cotija cheese or feta, plus more for garnish \n
+Juice of 2 limes \n
+2 tbsp. chopped fresh cilantro, plus more for garnish \n
+1 tbsp chili powder, plus more for garnish \n
+\n
+DIRECTIONS \n
+\n
+Using a sharp knife, carefully cut corn kernels off cob. Add about 1/2" water to a medium saucepan and salt well. \n
+Bring to a simmer. Add corn, cover, and cook until corn is tender, 3 to 4 minutes. Drain and pat dry. \n
+In a serving bowl, toss corn with mayonnaise, cotija, lime juice, cilantro, and chili powder. \n
+Season generously with salt.Top with more cotija, cilantro, and a sprinkle of chili powder before serving. \n
+</string>
+
+    <string name="mexican_recipe_two">
+        MEXICAN RICE \n
+\n
+Prep Time 5 minutes \n
+Cook Time 40 minutes \n
+Total Time 45 minutes \n
+\n
+INGREDIENTS \n
+        \n
+2 cups long grain rice \n
+1/8 cup vegetable oil \n
+8 oz tomato sauce \n
+6 stems cilantro (optional) \n
+1 tsp salt \n
+1 tsp minced garlic \n
+4 cups water (or 4 cups chicken lower sodium chicken broth - and no bouillon) \n
+1 cube chicken flavored bouillon \n
+dash cumin \n
+dash garlic pepper \n
+\n
+DIRECTION \n
+        \n
+Heat oil in large frying pan on medium heat. \n
+Add rice and cook until golden brown.Add 1 chicken flavored bouillon cube to 4 cups water and microwave for 3 minutes. \n
+When rice is brown, add water, tomato sauce, salt, garlic, cumin and garlic pepper to pan. \n
+Stir and cover pan. Let simmer for 30-40 minutes or until all is cooked and there is no liquid left. \n
+Fluff before serving and ENJOY.</string>
+
+    <string name="mexican_recipe_three">
+        TAMALES \n
+        \n
+Prep 25 mins \n
+Cook 20 mins \n
+Total 45 mins \n
+\n
+INGREDIENTS \n
+\n
+For the Dough: \n
+        \n
+4 cups Masa Harina \n
+3 cups broth (beef, chicken, or vegetable broth) \n
+2 teaspoons baking powder \n
+1 teaspoon salt \n
+1 teaspoon cumin \n
+1 1/3 cups lard \n
+8 ounce package dried corn husks \n
+Filling ideas: \n
+Red chili pork \n
+Salsa verde chicken See notes for recipe \n
+Bean and cheese See notes for recipe \n
+Authentic Mexican Rice , for serving, optional \n
+\n
+DIRECTIONS \n
+        \n
+
+ Soak the corn husks in a bowl of very hot water for 30 minutes or until softened.\n
+Prepare desired fillings. \n
+Make the tamal dough: \n
+In a large bowl, use an electric mixer to beat the lard and 2 tablespoons of broth until fluffy, about 3-5 minutes. \n
+Combine the masa flour, baking powder, salt, and cumin in a separate bowl; stir into the lard mixture and beat well with an electric mixer. \n
+Add the broth, little by little to form a very soft dough. Beat on high speed for several minutes. The dough should spread like creamy peanut butter and be slightly sticky. \n
+Cover the mixing bowl with a damp paper towel, to keep the dough from drying out. \n
+Assemble the tamales: Lay a corn husk, glossy side up, on the counter with the wide end at the top. Scoop about 1/4 cup of dough onto the top, center of the corn husk. \n
+Lay a piece of plastic wrap over the dough and use your hands to press and spread the masa into a thin layer, about 1/4 inch thick. \n
+Keep the dough spread along the top half of the corn husk to allow plenty of room to fold the bottom husk up, when it is time. \n
+Place 1-2 tablespoons of desired filling in a line down the center of the dough. (You
+do not want too much filling). Fold in one long side of the husk over the filling. Fold in the other long side, overlapping the first (like folding a brochure). Fold the bottom of the husk up. \n
+you are making multiple fillings, tying ones of a certain kind can help to identify them. \n
+Cook on the stove-top or Instant Pot: Add water to the bottom of your steamer or instant pot. (About 1 cup for IP and a few cups for a steamer pot do not fill above the steamer rack.) \n
+Lay a few extra corn husks on the bottom rack to keep the tamales from falling through and any boiling water from directly touching them. \n
+Place tamales standing upright, with their open end up, just tightly enough to keep them standing. If using a steamer pot, lay a few soaked corn husks or a wet towel over the top of the tamales before closing the lid. \n
+Steamer: Bring water to a boil (in Mexico they would often place a coin at the bottom of the steamer and when the coin started to tap in the pot you know the water was boiling.) \n
+Once boiling, reduce to a simmer and steam for 45 minutes to 1 hour, or longer. Check them after 45 minutes. \n
+Instant Pot: Cook on Manual High Pressure for 25 minutes. Allow pressure to naturally release for 10 minutes, and then quick release. \n
+To test if the tamales are done: Remove one and try to pull the husk off. If the husk pulls away cleanly from the tamale they are done. If the dough is still sticky or wet looking, cook them for 5-10 minutes longer and try again. \n
+Store leftover tamales in the refrigerator for 5-7 days depending on the freshness of your ingredients.</string>
+
+</resources>
